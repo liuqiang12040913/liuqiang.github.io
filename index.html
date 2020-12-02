@@ -60,7 +60,7 @@
   </p>
   <font size="-2">This webpage is inspired by <a href="https://shenyujun.github.io">Yujun Shen</a></font>
   <br>
-  <a href='https://clustrmaps.com/site/1adqr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=GiDiV-JDF36ZsZuJXA0W-lHvaSC3klPODR8w0wWruIg'/></a>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iRLfPIYatx95eHeAw1onSH8lhzs8br_RllKQRE2pFxY"></script>
 </div>
 <!-- === Navigation Bar (Vertical) Ends === -->
 
