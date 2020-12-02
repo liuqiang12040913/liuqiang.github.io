@@ -87,6 +87,8 @@
   </p>
   <div class="title">News</div>
   <ul>
+    <li>[2020/12] I have successfully defended my Ph.D. dissertation!</li>
+    <li>[2020/11] I will join Nokia Bell Labs as Network System Researcher in Jan. 2021!</li>
     <li>[2020/08] One paper is accepted by IEEE GLOBECOM 2020!</li>
     <li>[2020/06] Join Nokia Bell Labs as Research Intern!</li>
     <li>[2020/03] One paper is accepted by IEEE ICDCS 2020!</li>
@@ -497,10 +499,6 @@
     <li>
       <i class="fa fa-envelope fa-2x icon pr-15"></i>
       <a href="mailto:qliu12@uncc.edu">qliu12@uncc.edu</a>
-    </li>
-    <li>
-      <i class="fa fa-phone fa-2x icon pr-20"></i>
-      <a href="tel:704-499-2112">704-499-2112</a>
     </li>
   </ul>
 
