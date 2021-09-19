@@ -449,11 +449,11 @@ a:hover {text-decoration: none;}
 
 /* Container Wrapper */
 .wrapper {
-  max-width: 960px;
+  max-width: 1920px;
   padding: 0px 0px;
   background-color: #f8f8f8;
 }
-@media (max-width: 960px) {
+@media (max-width: 1920px) {
   .wrapper {
     max-width: 100%;
   }
@@ -548,6 +548,20 @@ button, input[type="submit"], input[type="reset"] {
 }
 .item.small .text{
   margin-left: calc(80px + 15px);
+}
+/* Large One */
+.item.large {
+  min-height: 250px;
+}
+.item.large .image{
+  height: 250px;
+  width: 250px;
+}
+.item.large .image img{
+  height: 250px;
+}
+.item.large .text{
+  margin-left: calc(250px + 15px);
 }
 
 @media (max-width: 599px) {
@@ -787,4 +801,31 @@ button, input[type="submit"], input[type="reset"] {
 .button.transparent:hover {
   border-color: black;
   color: black;
+}
+
+
+.container {
+  display: flex;
+}
+
+#col-1 {
+  background-color: rgba(0, 0, 0, 0);
+  flex: 1;
+  padding-top: 50px;
+  text-align: left;
+  width: 50%;
+  float: left;
+  height: 100%;
+}
+
+#col-2 {
+  background-color: rgba(0, 0, 0, 0);
+  flex: 1;
+  width: 50%;
+  float: left;
+  height: 100%;
+}
+
+.italic_font {
+  font-style: italic;
 }
