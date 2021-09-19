@@ -551,17 +551,17 @@ button, input[type="submit"], input[type="reset"] {
 }
 /* Large One */
 .item.large {
-  min-height: 250px;
+  min-height: 200px;
 }
 .item.large .image{
-  height: 250px;
-  width: 250px;
+  height: 200px;
+  width: 200px;
 }
 .item.large .image img{
-  height: 250px;
+  height: 200px;
 }
 .item.large .text{
-  margin-left: calc(250px + 15px);
+  margin-left: calc(200px + 15px);
 }
 
 @media (max-width: 599px) {
