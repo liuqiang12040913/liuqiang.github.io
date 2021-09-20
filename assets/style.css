@@ -549,19 +549,33 @@ button, input[type="submit"], input[type="reset"] {
 .item.small .text{
   margin-left: calc(80px + 15px);
 }
+/* medium One */
+.item.medium {
+  min-height: 120px;
+}
+.item.medium .image{
+  height: 120px;
+  width: 120px;
+}
+.item.medium .image img{
+  height: 120px;
+}
+.item.medium .text{
+  margin-left: calc(120px + 30px);
+}
 /* Large One */
 .item.large {
   min-height: 240px;
 }
 .item.large .image{
   height: 240px;
-  width: 180px;
+  width: 240px;
 }
 .item.large .image img{
   height: 240px;
 }
 .item.large .text{
-  margin-left: calc(180px + 15px);
+  margin-left: calc(240px + 30px);
 }
 
 @media (max-width: 599px) {
