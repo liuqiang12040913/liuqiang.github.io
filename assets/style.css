@@ -503,6 +503,55 @@ button, input[type="submit"], input[type="reset"] {
 
 
 /* Item */
+.pics {
+  min-height: 15px;
+  margin-bottom: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+  /* Warning: Needed for oldIE support, but words are broken up letter-by-letter */
+  -ms-word-break: break-all;
+     word-break: break-all;
+
+     /* Non standard for webkit */
+     word-break: break-word;
+
+  -webkit-hyphens: auto;
+   -moz-hyphens: auto;
+    -ms-hyphens: auto;
+        hyphens: auto;
+}
+.pics .image{
+  height: 160px;
+  width: 160px;
+  float: left;
+  text-align: center;
+  vertical-align: top;
+}
+.pics .image img{
+  height: 160px;
+  object-fit: cover;
+}
+.pics .text{
+  font-size: 14px;
+  margin-left: calc(160px + 15px);
+}
+/* Small One */
+.pics.small {
+  min-height: 160px;
+}
+.pics.small .image{
+  height: 160px;
+  width: 160px;
+}
+.pics.small .image img{
+  height: 160px;
+}
+.pics.small .text{
+  margin-left: calc(160px + 15px);
+}
+
+
+/* Item */
 .item {
   min-height: 15px;
   margin-bottom: 15px;
