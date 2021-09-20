@@ -521,14 +521,14 @@ button, input[type="submit"], input[type="reset"] {
         hyphens: auto;
 }
 .pics .image{
-  height: 160px;
+  height: 60px;
   width: 160px;
   float: left;
   text-align: center;
   vertical-align: top;
 }
 .pics .image img{
-  height: 160px;
+  height: 60px;
   object-fit: cover;
 }
 .pics .text{
@@ -537,17 +537,17 @@ button, input[type="submit"], input[type="reset"] {
 }
 /* Small One */
 .pics.small {
-  min-height: 160px;
+  min-height: 120px;
 }
 .pics.small .image{
-  height: 160px;
-  width: 160px;
+  height: 120px;
+  width: 120px;
 }
 .pics.small .image img{
-  height: 160px;
+  height: 120px;
 }
 .pics.small .text{
-  margin-left: calc(160px + 15px);
+  margin-left: calc(120px + 15px);
 }
 
 
