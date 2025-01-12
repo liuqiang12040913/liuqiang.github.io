@@ -11,7 +11,7 @@ body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #505050;
+  color: #303030;
   background-color: #f8f8f8;
 }
 h1 {font-size: 60px; font-weight: bold;}
@@ -508,7 +508,7 @@ button, input[type="submit"], input[type="reset"] {
   margin-bottom: 10px;
   font-size: 18px;
   font-weight:normal;
-  color: #505050;
+  color: #303030;
 }
 
 .myitem .myitem_info{
@@ -517,7 +517,7 @@ button, input[type="submit"], input[type="reset"] {
   list-style-type: none; 
   font-weight:normal; 
   font-size:smaller;
-  color: #909090;
+  color: #505050;
 }
 
 .mytext{
@@ -534,7 +534,7 @@ button, input[type="submit"], input[type="reset"] {
     margin-bottom: 8px;
     font-size: 16px;
     font-weight:normal;
-    color: #505050;
+    color: #303030;
   }
   
   .myitem .myitem_info{
@@ -543,7 +543,7 @@ button, input[type="submit"], input[type="reset"] {
     list-style-type: none; 
     font-weight:normal; 
     font-size:smaller;
-    color: #909090;
+    color: #505050;
   }
   
   .mytext{
@@ -551,7 +551,7 @@ button, input[type="submit"], input[type="reset"] {
     margin-bottom: 8px;
     font-size: 14px;
     font-weight:normal;
-    color: #505050;
+    color: #303030;
   }
 }
 
@@ -562,7 +562,7 @@ button, input[type="submit"], input[type="reset"] {
     margin-bottom: 5px;
     font-size: 14px;
     font-weight:normal;
-    color: #505050;
+    color: #303030;
   }
   
   .myitem .myitem_info{
@@ -571,7 +571,7 @@ button, input[type="submit"], input[type="reset"] {
     list-style-type: none; 
     font-weight:normal; 
     font-size:smaller;
-    color: #909090;
+    color: #505050;
   }
   
   .mytext{
@@ -579,7 +579,7 @@ button, input[type="submit"], input[type="reset"] {
     margin-bottom: 5px;
     font-size: 12px;
     font-weight:normal;
-    color: #505050;
+    color: #303030;
   }
 }
 
